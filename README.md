@@ -15,7 +15,6 @@ It also picks your mood using mood tracker and the ability to add notes and coll
 and activities for statistics and calendars to review your habits better which can be synced
 to your calendars.
 
-Find website here: https://surajkashyap-ux.github.io/rbz
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+Find website here: <a href="https://surajkashyap-ux.github.io/rbz" target="_blank">https://surajkashyap-ux.github.io/rbz</a>
 
 
